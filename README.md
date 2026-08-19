@@ -10,9 +10,15 @@ My LeetCode solutions in Python
 ## Array
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
