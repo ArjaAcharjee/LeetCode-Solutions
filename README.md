@@ -7,4 +7,12 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/1203-print-in-order) |
+## Array
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
