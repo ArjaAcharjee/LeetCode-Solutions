@@ -11,6 +11,7 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0898-transpose-matrix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
@@ -32,10 +33,15 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
