@@ -12,6 +12,7 @@ My LeetCode solutions in Python
 | ------- |
 | [0001-two-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0898-transpose-matrix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
@@ -44,4 +45,8 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
