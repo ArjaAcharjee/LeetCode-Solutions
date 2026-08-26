@@ -20,6 +20,7 @@ My LeetCode solutions in Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0898-transpose-matrix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
@@ -86,8 +87,12 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0169-majority-element) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
