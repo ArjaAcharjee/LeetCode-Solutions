@@ -12,6 +12,7 @@ My LeetCode solutions in Python
 | ------- |
 | [0001-two-sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0035-search-insert-position) |
@@ -61,6 +62,7 @@ My LeetCode solutions in Python
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -76,6 +78,7 @@ My LeetCode solutions in Python
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -94,7 +97,7 @@ My LeetCode solutions in Python
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0169-majority-element) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArjaAcharjee/LeetCode-Solutions/tree/master/0169-majority-element) |
